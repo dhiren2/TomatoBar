@@ -8,13 +8,18 @@
 </p>
 
 <img
-  src="https://github.com/ivoronin/TomatoBar/raw/main/screenshot.png?raw=true"
+  src="https://github.com/dhiren2/TomatoBar/raw/main/screenshot.png?raw=true"
   alt="Screenshot"
   width="50%"
   align="right"
 />
 
 ## Overview
+
+**NOTE:** This is a fork of the excellent TomatoBar app. I prefer 90-minute work intervals. I modified the values so that you can set arbitrarily long intervals, up to a day. I've also added editable fields so you don't have to use only the up/down arrows. This build only works with macOS 12.0.0+
+
+-----
+
 Have you ever heard of Pomodoro? It’s a great technique to help you keep track of time and stay on task during your studies or work. Read more about it on <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Wikipedia</a>.
 
 TomatoBar is world's neatest Pomodoro timer for the macOS menu bar. All the essential features are here - configurable
